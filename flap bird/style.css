@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+  font-family: 'press start 2p' cursive;
+  background-image: linear-gradient(to right, #89d46c, rgba(39, 33, 39, 0.667));
+}
+canvas {
+  border: 5px solid #121212;
+  border-radius: 10px;
+  display: block;
+  margin: 50px auto;
+  
+  background-image: url("./assets/Flappy_Bird_Background.png");
+  }
