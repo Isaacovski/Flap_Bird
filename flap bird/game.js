@@ -36,7 +36,7 @@ document.body.onkeyup = function(e){
 }
 
 
-function increase() {
+  function increase() {
   //todo
 }
 
